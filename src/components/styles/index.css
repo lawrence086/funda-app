@@ -1,0 +1,21 @@
+.nav-con {
+  position: sticky !important;
+  bottom: 8px !important;
+  width: 94% !important;
+}
+.p-logo {
+  width: 3rem;
+  align-items: flex-start;
+  text-align: center;
+  justify-content: flex-start !important;
+  display: flex;
+}
+.p-avater {
+  width: 2.8rem;
+  align-items: center;
+  text-align: center;
+  justify-content: center !important;
+  display: flex;
+  border-radius: 7rem;
+  margin-right: 1rem;
+}
